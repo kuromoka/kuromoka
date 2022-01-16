@@ -22,5 +22,5 @@ Please feel free to contact me via [Twitter](https://twitter.com/kuromoka16) or 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kuromoka&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuromoka&hide=css" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuromoka&hide=css,tex,c%2B%2B" />
 </a>
