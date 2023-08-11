@@ -16,8 +16,8 @@ I'm backend-end/front-end engineer from Japan.
 - Others: **Firebase, CircleCI, GitHub Actions, Tailwind CSS**
 
 ## ✅ My Projects
-- [circleci-status](https://github.com/tokyo-metropolitan-gov/covid19](https://github.com/kuromoka/circleci-status): **VS Code extension**
-- [cyger](https://github.com/vuetifyjs/vuetify](https://github.com/kuromoka/cyger): **PHP Composer package**
+- [circleci-status](https://github.com/kuromoka/circleci-status): **VS Code extension**
+- [cyger](https://github.com/kuromoka/cyger): **PHP Composer package**
 - [Self-published technical book](https://kuromoworks.booth.pm/): **Author**
 
 ## 📈 GitHub Stats
