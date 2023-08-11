@@ -1,8 +1,6 @@
 # Hi, I'm kuromoka.
 I'm backend-end/front-end engineer from Japan.
 
-At university, I major in computer science and got Bachelor's degree.
-
 |key|value|
 |---|-----|
 |Twitter|[@kuromoka16](https://twitter.com/kuromoka16)|
@@ -12,15 +10,14 @@ At university, I major in computer science and got Bachelor's degree.
 
 ## ⚡ Technologies
 - Language: **PHP, JavaScript, TypeScript, Golang, Solidity**
-- Framework: **FuelPHP, CakePHP, Laravel, Vue.js, React**
+- Framework: **FuelPHP, CakePHP, Laravel, Vue.js, React, Next.js**
 - Testing: **PHPUnit, Jest**
-- Linter: **ESLint**
-- Others: **Firebase, CircleCI**
+- Tools: **ESLint, Prettier**
+- Others: **Firebase, CircleCI, GitHub Actions, Tailwind CSS**
 
-## ✅ Projects
-- [sebastianbergmann/phpunit-documentation-japanese](https://github.com/sebastianbergmann/phpunit-documentation-japanese): **Maintainer/Reviewer**
-- [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19): **Contributor**
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): **Contributor**
+## ✅ My Projects
+- [circleci-status](https://github.com/tokyo-metropolitan-gov/covid19](https://github.com/kuromoka/circleci-status): **VS Code extension**
+- [cyger](https://github.com/vuetifyjs/vuetify](https://github.com/kuromoka/cyger): **PHP Composer package**
 - [Self-published technical book](https://kuromoworks.booth.pm/): **Author**
 
 ## 📈 GitHub Stats
