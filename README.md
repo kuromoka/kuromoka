@@ -1,5 +1,5 @@
 # Hi, I'm kuromoka.
-I'm backend-end/front-end engineer from Japan.
+I'm back-end/front-end engineer from Japan.
 
 |key|value|
 |---|-----|
