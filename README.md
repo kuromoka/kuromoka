@@ -9,7 +9,7 @@ I'm back-end/front-end engineer from Japan.
 |Speaker Deck|[@kuromoka](https://speakerdeck.com/kuromoka/)|
 
 ## ⚡ Technologies
-- Language: **PHP, JavaScript, TypeScript, Golang, Solidity**
+- Language: **PHP, JavaScript, TypeScript, Golang**
 - Framework: **FuelPHP, CakePHP, Laravel, Vue.js, React, Next.js**
 - Testing: **PHPUnit, Jest**
 - Tools: **ESLint, Prettier**
